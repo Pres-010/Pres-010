@@ -156,7 +156,7 @@ My developer portfolio showcasing my skills, projects, and journey.
 | 🟢 JavaScript | `███████████████░░░` 80% |
 | 🟢 Vue.js | `████████████░░░░░░` 65% |
 | 🟡 Node.js | `██████████░░░░░░░░` 55% |
-| 🟡 Backend Development | `████████░░░░░░░░░░` 45% |
+| 🟡 Backend Development | `███████████░░░░░░` 60%  |
 | 🟡 APIs | `████████░░░░░░░░░░` 45% |
 | 🟡 UI/UX | `███████████░░░░░░░` 60% |
 

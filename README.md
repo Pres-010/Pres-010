@@ -7,9 +7,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=F7DF1E&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Pres-010&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Pres-010?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github)
+![Stars](https://img.shields.io/github/stars/Pres-010?label=STARS&style=for-the-badge&color=F7DF1E&logo=github)
 
 <br/>
 
@@ -168,16 +168,16 @@ My developer portfolio showcasing my skills, projects, and journey.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pres-010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pres-010&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Pres-010&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pres-010&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -187,7 +187,7 @@ My developer portfolio showcasing my skills, projects, and journey.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pres-010&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
 
 </div>
 
@@ -197,7 +197,7 @@ My developer portfolio showcasing my skills, projects, and journey.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/Pres-010/Pres-010/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
